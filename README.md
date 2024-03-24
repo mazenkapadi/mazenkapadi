@@ -10,7 +10,7 @@ I'm a Computer Science major with an Economics minor at Farmingdale State Colleg
   - Technical Lead, Google Developer Student Clubs
   - Secretary, Computer Tech Club ACM
   - Treasurer and Founding Officer, Rambots
-  - Senate Leader and Senator for School Engineering, Student Government Association
+  - Senate Leader and Senator for School of Engineering, Student Government Association
 
 - **BTech in Computer Engineering**  
   DY Patil University, Navi Mumbai (Aug 2020 - Sept 2021)  
