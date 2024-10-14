@@ -19,7 +19,7 @@ I'm a Computer Science major with an Economics minor at Farmingdale State Colleg
 
 ## 💻 Skills & Tools
 
-- **Languages:** Java, Python, Swift, C++, R, JavaScript, HTML, CSS, React-Native
+- **Languages:** Java, Python, Swift, C++, R, JavaScript, HTML, CSS, React, NextJS
 - **Tools:** Xcode, Visual Studio Code, Adobe XD
 - **Concepts:** Data Structures and Algorithms, Software Engineering, Big Data Management, Data Science
 
