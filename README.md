@@ -4,9 +4,9 @@ I'm a Computer Science major with an Economics minor at Farmingdale State Colleg
 
 ## 🎓 Education
 
-- **BS in Computer Science**  
-  Farmingdale State College, NY (Jan 2022 - present)  
-  - GPA: 3.84/4.0, President’s List, Dean’s List
+- **BS in Computer Science**, magna cum laude
+  Farmingdale State College, NY (Jan 2022 - Dec 2024)  
+  - GPA: 3.87/4.0, President’s List, Dean’s List
   - Technical Lead, Google Developer Student Clubs
   - Secretary, Computer Tech Club ACM
   - Treasurer and Founding Officer, Rambots
